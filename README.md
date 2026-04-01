@@ -60,7 +60,7 @@ when i'm not training models or wrangling csvs, i'm probably rewatching spirited
 
 ---
 
-### 🌊 contribution graph
+### contribution graph
 
 <!-- Replace YOUR_USERNAME with your actual GitHub username -->
 ![snake gif](https://github.com/mime108/mime108/blob/output/github-contribution-grid-snake.svg)
@@ -73,3 +73,26 @@ when i'm not training models or wrangling csvs, i'm probably rewatching spirited
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=bc252d&text_color=2c3e38&bg_color=dae8e5&border_color=83a79d)
 
 </div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4d695d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-bc252d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-83a79d?style=for-the-badge&logoColor=white)](https://YOUR_PORTFOLIO)
+
+</div>
+
+---
+
+<div align="center">
+
+*"once you do something, you never forget it — even if you can't remember it."*
+<br>
+<sub>— yubaba, probably about cleaning messy data</sub>
+
+</div>
+

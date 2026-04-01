@@ -1,19 +1,18 @@
 name: Generate Snake
-
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mime108
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=bc252d&color_dots[]=dae8e5&color_dots[]=83a79d&color_dots[]=4d695d&color_dots[]=2c3e38
+          outputs: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

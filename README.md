@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">$${\color{#c9a84c}✦ \space Moksha \space Smruthi \space Morapakula \space ✦}$$</h1>
 
-<p align="center"><i>$${\color{#83a79d}data \space science \space \& \space ml \space student}$$</i></p>
+<p align="center"><i>$${\color{#83a79d}Data \space Science \space \& \space Machine \space Learning}$$</i></p>
   
 ![](https://img.shields.io/badge/open%20to%20opportunities-%234d695d?style=flat-square&logoColor=white)
 [![skillicons](https://skillicons.dev/icons?i=python,r,js,html,css&theme=dark)](https://skillicons.dev)

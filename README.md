@@ -58,19 +58,21 @@ when i'm not training models or wrangling csvs, i'm probably rewatching spirited
 ![VS Code](https://img.shields.io/badge/VS%20Code-4d695d?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-83a79d?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**cloud & devops**
+
+![AWS](https://img.shields.io/badge/AWS-bc252d?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-83a79d?style=for-the-badge&logo=docker&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-a1cde5?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 ---
 
 ### contribution graph
 
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
-![snake gif](https://github.com/mime108/mime108/blob/output/github-contribution-grid-snake.svg)
-
-<!-- GitHub Stats -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=bc252d&icon_color=4d695d&text_color=2c3e38&bg_color=dae8e5&border_color=83a79d&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mime108&show_icons=true&title_color=bc252d&icon_color=4d695d&text_color=2c3e38&bg_color=dae8e5&border_color=83a79d&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=bc252d&text_color=2c3e38&bg_color=dae8e5&border_color=83a79d)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mime108&layout=compact&title_color=bc252d&text_color=2c3e38&bg_color=dae8e5&border_color=83a79d)
 
 </div>
 

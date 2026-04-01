@@ -1,14 +1,11 @@
 <!-- Header -->
 <div align="center">
-<h1><span style="color:#C9A84C">✦ Moksha Smruthi Morapakula ✦</span></h1>
+<h1 align="center">$${\color{#c9a84c}✦ \space Moksha \space Smruthi \space Morapakula \space ✦}$$</h1>
 
-*data science & ml student*
+<p align="center"><i>$${\color{#83a79d}data \space science \space \& \space ml \space student}$$</i></p>
   
 ![](https://img.shields.io/badge/open%20to%20opportunities-%234d695d?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Python-%234d695d?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-%23bc252d?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/SQL-%2383a79d?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/R-%2383a79d?style=flat-square&logo=r&logoColor=white)
+[![skillicons](https://skillicons.dev/icons?i=python,r,js,html,css&theme=dark)](https://skillicons.dev)
 ![](https://img.shields.io/badge/building%20in%20public-%23a1cde5?style=flat-square&logoColor=white)
 </div>
 
@@ -64,26 +61,12 @@ when i'm not training models or wrangling csvs, i'm probably rewatching spirited
 ![Docker](https://img.shields.io/badge/Docker-83a79d?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-a1cde5?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
-
-### contribution graph
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mime108&show_icons=true&title_color=bc252d&icon_color=4d695d&text_color=2c3e38&bg_color=dae8e5&border_color=83a79d&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mime108&layout=compact&title_color=bc252d&text_color=2c3e38&bg_color=dae8e5&border_color=83a79d)
-
-</div>
-
----
-
 ### Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4d695d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-bc252d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4d695d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moksha-smruthi08/)
+[![Email](https://img.shields.io/badge/Email-bc252d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmorapak@asu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-83a79d?style=for-the-badge&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
@@ -92,9 +75,9 @@ when i'm not training models or wrangling csvs, i'm probably rewatching spirited
 
 <div align="center">
 
-*"once you do something, you never forget it — even if you can't remember it."*
-<br>
-<sub>— yubaba, probably about cleaning messy data</sub>
+$${\color{#83a79d}"once \space you \space do \space something, \space you \space never \space forget \space it \space — \space even \space if \space you \space can't \space remember \space it."}$$
+
+$${\color{#bc252d}— \space yubaba, \space probably \space about \space cleaning \space messy \space data}$$
 
 </div>
 
